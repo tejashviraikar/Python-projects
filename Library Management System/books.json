@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Python Basics",
+        "author": "John",
+        "isbn": "1001",
+        "available": true
+    },
+    {
+        "title": "Machine Learning",
+        "author": "Andrew",
+        "isbn": "1002",
+        "available": false
+    },
+    {
+        "title": "Data Structures",
+        "author": "Mark Allen Weiss",
+        "isbn": "103",
+        "available": true
+    }
+]
