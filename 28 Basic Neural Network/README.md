@@ -24,7 +24,9 @@ Input values (Training Data):
 - Target output: 0
   Output value (Training):
   Neural network trains on the provided input features and target output.
-  Input values (Testing Data):
+
+Input values (Testing Data):
+
 - Features: [0.4, 0.5, 0.6]
   Output value (Testing):
   Neural network predicts the output based on the input features.
